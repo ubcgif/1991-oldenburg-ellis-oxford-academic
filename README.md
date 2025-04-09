@@ -1,24 +1,13 @@
 ## Inversion of geophysical data using an approximate inverse mapping
-Please use the following as a template for the 
-```
-# Template repository for papers
 
-_Authors_
+_Douglas W. Oldenburg & R. G Ellis_
 
-[https://doi.org/XXX](https://doi.org/XXX)
+[https://doi.org/10.1111/j.1365-246X.1991.tb06717.x](https://doi.org/10.1111/j.1365-246X.1991.tb06717.x)
 
 ![thumbnail](./paper/thumbnail.png)
 
 ## Summary
 
-Summary of the paper here (pulled from abstract/summary of paper) 
+The method uses accurate forward modelling to compute responses, but only uses an approximate inverse mapping to map data back to model space 
 
 ## Citation
-
-Please include the formatted citation along with bibtex for the reference
-
-```
-
-## Examples
-- https://github.com/ubcgif/2023-heagy-oldenburg-gji-casing-permeability
-- https://github.com/ubcgif/2024-heagy-etal-tle-future-of-applied-geophysics
